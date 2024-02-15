@@ -1,16 +1,15 @@
-
-AnuadMordnis/.idea/
-
-AnuadMordnis/Library/
-
-AnuadMordnis/Logs/
-
-AnuadMordnis/obj/
-
-AnuadMordnis/Temp/
+Temp/
 
 *.csproj
 
 *.sln
 
-AnuadMordnis/UserSettings/
+.idea/
+
+Library/
+
+Logs/
+
+obj/
+
+UserSettings/
