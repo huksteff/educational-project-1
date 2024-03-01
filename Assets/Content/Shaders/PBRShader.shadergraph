@@ -702,6 +702,31 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.Vector4MaterialSlot",
+    "m_ObjectId": "2645d8978d9a4f32bbbe2231931788be",
+    "m_Id": -927307579,
+    "m_DisplayName": "Albedo Color (Mltp)",
+    "m_SlotType": 0,
+    "m_Hidden": false,
+    "m_ShaderOutputName": "_Albedo_Color_Mltp",
+    "m_StageCapability": 3,
+    "m_Value": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+    },
+    "m_DefaultValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+    },
+    "m_Labels": []
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.BlockNode",
     "m_ObjectId": "26480a29628f44f8ba8d93c24a19447d",
     "m_Group": {
@@ -1053,6 +1078,12 @@
             "m_Id": "92eb6e2eca88460688b31dd7b381d8e4"
         },
         {
+            "m_Id": "ee9c357c3a6a497d9c4544dd0f12f194"
+        },
+        {
+            "m_Id": "2645d8978d9a4f32bbbe2231931788be"
+        },
+        {
             "m_Id": "2840122748ed4bdab35384ed61afd633"
         },
         {
@@ -1132,7 +1163,9 @@
         "b7bd30f5-74b9-4f9d-a082-0d5eff5dc186",
         "6ca5bb8a-6b20-4d56-b707-6dee598a5855",
         "380d6e3c-d954-4ce5-84e8-2f6d408759b4",
-        "da862748-ca9a-4d5f-94d1-31b67a0fcb7d"
+        "da862748-ca9a-4d5f-94d1-31b67a0fcb7d",
+        "fcf13e28-df56-429e-a48f-133a4cfc648c",
+        "dd88f5e8-bac3-43db-b4a3-d4c45a843d92"
     ],
     "m_PropertyIds": [
         -462902804,
@@ -1147,7 +1180,9 @@
         552377107,
         -1698276028,
         -1382098772,
-        1545810748
+        1545810748,
+        135828118,
+        -927307579
     ],
     "m_Dropdowns": [],
     "m_DropdownSelectedEntries": []
@@ -2800,6 +2835,31 @@
     "m_StageCapability": 2,
     "m_Value": 0.0,
     "m_DefaultValue": 0.5,
+    "m_Labels": []
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.Vector4MaterialSlot",
+    "m_ObjectId": "ee9c357c3a6a497d9c4544dd0f12f194",
+    "m_Id": 135828118,
+    "m_DisplayName": "Albedo Color (ADD)",
+    "m_SlotType": 0,
+    "m_Hidden": false,
+    "m_ShaderOutputName": "_Albedo_Color_ADD",
+    "m_StageCapability": 3,
+    "m_Value": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+    },
+    "m_DefaultValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+    },
     "m_Labels": []
 }
 

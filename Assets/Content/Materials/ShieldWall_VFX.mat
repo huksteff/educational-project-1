@@ -54,25 +54,26 @@ Material:
     - _BaseShapePower: 0.27
     - _BaseShapeSpeed: -0.02
     - _BaseShapeTiling: 20
-    - _Distance: 0.31
-    - _LineYOffset: 0.12
-    - _MaskYOffset: 14.4
+    - _Distance: 0.21
+    - _InvertBarrier: 0
+    - _LineYOffset: -1
+    - _MaskYOffset: 14.46
     - _MaskYPower: 1
     - _NoiseBorderPower: 2.03
     - _NoiseSpeed: -0.05
-    - _NoiseTiling: 20
-    - _PushStrength: -0.3
+    - _NoiseTiling: 20.43
+    - _PushStrength: 0.03
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Color: {r: 3.0314326, g: 0.22482435, b: 0, a: 1}
-    - _DistanceRemap: {r: 0.1, g: 0.92, b: 0, a: 0}
+    - _Color: {r: 0.10499814, g: 0.5681428, b: 2.0236003, a: 1}
+    - _DistanceRemap: {r: 0.1, g: 0.7, b: 0, a: 0}
     - _LineRemap: {r: 0.13, g: 0.72, b: 0, a: 0}
     - _MaskYRemap: {r: 0.19, g: 19.81, b: 0, a: 0}
     - _NoiseBorderRemap: {r: 0.53, g: 1, b: 0, a: 0}
     - _NoiseClipRemap: {r: 0.76, g: 1, b: 0, a: 0}
     - _NoiseDistanceRemap: {r: 0.34, g: 0.73, b: 0, a: 0}
-    - _ObjectPosOffset: {r: 0, g: 0.21, b: 0, a: 0}
+    - _ObjectPosOffset: {r: 0, g: 0.76, b: 0, a: 0}
     - _Offset: {r: 0, g: -0, b: 0, a: 0}
     - _PushRemap: {r: 0, g: 0.7, b: 0, a: 0}
     - _Tiling: {r: 1, g: 10, b: 0, a: 0}
